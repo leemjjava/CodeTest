@@ -1,12 +1,5 @@
 package com.kipis.codetest;
 
-import android.widget.Switch;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-
-//다트게임
 public class Solution06 {
     public int solution(String dartResult) {
         char[] resultList = dartResult.toCharArray();
@@ -50,7 +43,7 @@ public class Solution06 {
                 }
             }
         }
-        
+
 
         for(int i  = 0; i < 3; ++i){
             char option = optionArray[i];

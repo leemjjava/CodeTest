@@ -3,7 +3,6 @@ package com.kipis.codetest;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-//완주하지 못한 선수
 public class Solution05 {
     public String solution(String[] participant, String[] completion) {
         HashMap<String, Integer> map = new HashMap();

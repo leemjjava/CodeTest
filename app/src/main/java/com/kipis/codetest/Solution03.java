@@ -1,6 +1,5 @@
 package com.kipis.codetest;
 
-//비밀지도
 public class Solution03 {
     public String[] solution(int n, int[] arr1, int[] arr2) {
         String[] answer = new String[n];

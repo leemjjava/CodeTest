@@ -1,6 +1,5 @@
 package com.kipis.codetest;
 
-//모의고사
 public class Solution02 {
     public int[] solution(int[] answers) {
         int[] answer = {};

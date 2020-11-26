@@ -2,7 +2,6 @@ package com.kipis.codetest;
 
 import java.util.ArrayList;
 
-//크레인 인형뽑기
 public class Solution {
     public int solution(int[][] board, int[] moves) {
         int answer = 0;

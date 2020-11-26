@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 
-//두 개 뽑아서 더하기
 public class Solution04 {
     public int[] solution(int[] numbers) {
 
