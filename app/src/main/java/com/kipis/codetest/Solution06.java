@@ -50,6 +50,7 @@ public class Solution06 {
                 }
             }
         }
+        
 
         for(int i  = 0; i < 3; ++i){
             char option = optionArray[i];
